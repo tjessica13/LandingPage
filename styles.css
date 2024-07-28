@@ -63,7 +63,7 @@ h1 {
     height: auto;
 }
 
-.hero button {
+button {
     color: #F9FAF8;
     background-color: #3882F6;
     border-radius: 8px;
@@ -124,3 +124,32 @@ h1 {
 .quote h3 {
     text-align: right;
 }
+
+.call-to-action {
+    background-color: #3882F6;
+    margin: 100px 200px;
+    color: #F9FAF8;
+    padding: 25px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call-to-action button {
+    border: solid;
+    border-color: #F9FAF8;
+    border-width: 2px;
+    margin: 30px;
+}
+
+.action-text h3 {
+    margin-bottom: 0;
+    font-size: 24px;
+}
+
+.action-text p {
+    margin-top: 0;
+    color: #E5E7EB;
+}
+
