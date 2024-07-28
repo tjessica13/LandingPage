@@ -2,6 +2,8 @@ This is for the Landing Page project in The Odin Project Foundations course.
 
 https://www.theodinproject.com/lessons/foundations-landing-page
 
+https://fonts.google.com/specimen/Roboto
+
 ### Free to use Images from Pexels
 
 https://www.pexels.com/photo/photo-of-cushion-seats-on-ground-4112237/

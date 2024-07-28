@@ -106,3 +106,21 @@ h1 {
     height: auto;
     border-radius: 10px;
 }
+
+.quote {
+    text-align: left;
+    background-color: #E5E7EB;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote h3 {
+    text-align: right;
+}
