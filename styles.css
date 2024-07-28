@@ -72,3 +72,37 @@ h1 {
     font-size: 16px;
     font-weight: bold;
 }
+
+.info {
+    text-align: center;
+    padding-bottom: 68px;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    margin: 36px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.info-item {
+    width: 200px;
+    padding: 10px;
+}
+
+.info-container p {
+    color: gray;
+}
+
+.info-container img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
